@@ -1,0 +1,22 @@
+{
+  "name": "@bai/prettier-config",
+  "version": "1.0.0",
+  "description": "prettier的配置文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiyunshenghaishang/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "hz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baiyunshenghaishang/prettier-config/issues"
+  },
+  "homepage": "https://github.com/baiyunshenghaishang/prettier-config#readme"
+}

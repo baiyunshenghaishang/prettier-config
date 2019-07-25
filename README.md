@@ -14,7 +14,7 @@ prettier 的配置文件
 或者
 使用`prettier`配置文件
 ```javascript
-// .pretterc.js
+// .pretterrc.js
 module.exports = {
     ...require('@baixiaogou/prettier-config'),
     // 额外的覆盖配置

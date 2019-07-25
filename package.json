@@ -1,6 +1,6 @@
 {
   "name": "@baixiaogou/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "prettier的配置文件",
   "main": "index.js",
   "scripts": {

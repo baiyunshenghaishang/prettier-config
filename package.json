@@ -1,5 +1,5 @@
 {
-  "name": "@bai/prettier-config",
+  "name": "@baixiaogou/prettier-config",
   "version": "1.0.0",
   "description": "prettier的配置文件",
   "main": "index.js",
